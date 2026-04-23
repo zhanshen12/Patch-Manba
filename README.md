@@ -110,10 +110,10 @@ Extensive experiments show that Patch-Mamba achieves strong and robust performan
 
 ### Evaluated datasets
 
-- **MRST**
-- **EMO**
-- **DMA**
-- **USCG**
+- **AIS**
+- **BDS**
+- **RADAR**
+
 
 ### Main observations
 
