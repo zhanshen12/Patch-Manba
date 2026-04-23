@@ -155,16 +155,6 @@ If this project is relevant to your research, please cite our work.
 
 ---
 
-## ⭐ Roadmap
-
-- [ ] Release complete training pipeline
-- [ ] Release dataset preprocessing scripts
-- [ ] Add pretrained checkpoints
-- [ ] Add more benchmark datasets
-- [ ] Extend to multi-agent or interaction-aware trajectory prediction
-
----
-
 ## 🤝 Acknowledgement
 
 Patch-Mamba is motivated by the practical need for **trajectory forecasting under real maritime sensing conditions**, where irregularity and incompleteness are the norm rather than the exception.
